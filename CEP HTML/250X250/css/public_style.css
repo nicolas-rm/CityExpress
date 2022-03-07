@@ -54,17 +54,18 @@ body {
 }
 .texto-encima {
   position: absolute;
-  top: 12%;
-  left: 50%;
+  top: 18%;
+  left: 28%;
   text-align: end;
-  transform: translate(-50%, -50%);
+  transform: translate(-10%, -90%);
+  
 }
 
 .centrado {
   position: absolute;
   top: 93%;
-  left: 35%;
-  transform: translate(-25%, -75%);
+  left: 20%;
+  transform: translate(-10%, -90%);
 }
 
 img {
