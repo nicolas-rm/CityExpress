@@ -5,7 +5,10 @@
 
 @font-face {
   font-family: "Gotham";
-  src: url("fonts//GothamBold.ttf") format("truetype");
+  src: url("fonts/GothamBold.ttf") format("truetype");
+  src: url('fonts/gothambold-webfont.eot?#iefix') format('embedded-opentype'), 
+  url('fonts/gothambold-webfont.woff') format('woff'),
+  url('fonts/gothambold-webfont.svg#gothambold-webfont') format('svg');
 }
 
 @font-face {
