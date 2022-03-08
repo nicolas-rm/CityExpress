@@ -67,7 +67,7 @@ body {
   transform: translate(10%, -90%);
 }
 
-img {
+.img {
   border: 10px solid black;
 }
 

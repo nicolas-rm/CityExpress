@@ -281,7 +281,7 @@ sub {
   transform: translate(-50%, -50%);
 }
 
-img {
+.img {
   border: 2px solid darkred;
 }
 

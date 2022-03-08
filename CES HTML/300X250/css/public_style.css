@@ -268,10 +268,10 @@ sub {
 }
 .texto-encima {
   position: absolute;
-  top: 1%;
+  top: 15%;
   left: 50%;
   text-align: end;
-  transform: translate(-50%, 50%);
+  transform: translate(-50%, -50%);
 
 }
 
@@ -283,7 +283,7 @@ sub {
   transform: translate(-50%, -50%);
 }
 
-img {
+.img {
   border: 10px solid darkred;
 }
 

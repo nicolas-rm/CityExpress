@@ -54,10 +54,10 @@ body {
 }
 .texto-encima {
   position: absolute;
-  top: 18%;
-  left: 40%;
+  top: 15%;
+  left: 50%;
   text-align: end;
-  transform: translate(-30%, -70%);
+  transform: translate(-50%, -50%);
   
 }
 
@@ -68,7 +68,7 @@ body {
   transform: translate(-25%, -75%);
 }
 
-img {
+.img {
   border: 10px solid darkred;
 }
 
